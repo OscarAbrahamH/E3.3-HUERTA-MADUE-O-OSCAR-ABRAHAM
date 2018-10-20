@@ -1,0 +1,9 @@
+C:\Users\Abraham\Desktop\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Abraham\Desktop\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Abraham\Desktop\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Abraham\Desktop\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Abraham\Desktop\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Abraham\Desktop\E3.3 HUERTA MADUEÑO OSCAR ABRAHAM\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Abraham\Desktop\E3.3 HUERTA MADUEÑO OSCAR ABRAHAM\obj\Debug\ConsoleApplication4.exe
+C:\Users\Abraham\Desktop\E3.3 HUERTA MADUEÑO OSCAR ABRAHAM\obj\Debug\ConsoleApplication4.pdb
